@@ -1,0 +1,52 @@
+.red{
+    height: 10vw;
+    width: 10vw;
+    background-color: red;
+    margin: 1vw;
+    border-radius: 15px;
+    border: 4px solid black;
+}
+.green{
+    height: 10vw;
+    width: 10vw;
+    background-color: green;
+    margin: 1vw;
+    border-radius: 15px;
+    border: 4px solid black;
+}
+.blue{
+    height: 10vw;
+    width: 10vw;
+    background-color: blue;
+    margin: 1vw;
+    border-radius: 15px;
+    border: 4px solid black;
+}
+.yellow{
+    height: 10vw;
+    width: 10vw;
+    background-color: yellow;
+    margin: 1vw;
+    border-radius: 15px;
+    border: 4px solid black;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+text-align: center;
+
+
+}
+
+
+.flash{
+    background-color: white;
+}
+
+.bcc{
+    background-color: red;
+}
